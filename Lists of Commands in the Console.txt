@@ -1,0 +1,16 @@
+
+== Commands ==
+
+set score = Set your current score. After typing the command, type the value of the score.
+Pixelate = Make everything pixelated. (experimental)
+invincibillity = Type the command, then type true to enable or false to disable.
+powerup = Type the command, then type one of these to enable the following:
+1. gun
+2. superboots
+3. challange
+debug = enter the debug mode
+hell = you only live once
+music on = turn on music
+music off = turn off music
+
+Up to date to : 1.53
